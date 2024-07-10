@@ -1,6 +1,7 @@
 ib_async/__pycache__
 dist
 build
+envs
 .vscode
 .idea
 .settings
@@ -9,6 +10,7 @@ build
 .pydevproject
 .mypy_cache
 .eggs
+.env
 html
 doctrees
 ib_async.egg-info
